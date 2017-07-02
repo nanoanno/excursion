@@ -3,5 +3,19 @@ body {
 	font-weight: normal;
 	text-align: center;
 	background-color: black;
-	font-color: white;
+	color: white;
+}
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-size: 42px;
+	font-weight: 300;
+}
+p {
+	font-size: 21px;
+	color: grey;
+}
+footer {
+	text-align: right;
 }
