@@ -1,5 +1,7 @@
-h1 {
-	font-family: Veranda;
+body {
+	font-family: Verdana, sans-serif;
 	font-weight: normal;
-	font-size: 50px;
+	text-align: center;
+	background-color: black;
+	font-color: white;
 }
