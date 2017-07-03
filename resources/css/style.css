@@ -19,3 +19,7 @@ p {
 .footer {
 	text-align: right;
 }
+.link {
+	font-size: 16px;
+	color: aquamarine;
+}
