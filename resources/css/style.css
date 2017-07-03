@@ -16,10 +16,10 @@ p {
 	font-size: 21px;
 	color: grey;
 }
-.footer {
-	text-align: right;
-}
 .link {
 	font-size: 16px;
 	color: aquamarine;
+}
+.footer {
+	text-align: right;
 }
